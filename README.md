@@ -1,4 +1,4 @@
-# SNU-SI-2022F
+# SNU-Sound-Interaction
 2022 Fall Sound Interaction course project (SNU ISC)
 
 ### Final Project: Karaoke Scoring System
